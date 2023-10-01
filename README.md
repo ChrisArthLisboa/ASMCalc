@@ -1,3 +1,3 @@
 # ASMCalc
 
-A calculator created in full assembly language
+A calculator created in full assembly language x86
